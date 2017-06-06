@@ -1,0 +1,44 @@
+Naive Bayes
+training time: 1.517 s
+prediction time: 0.245 s
+0.973265073948
+
+SVM linear
+training time: 200.919 s
+prediction time: 21.084 s
+0.984072810011
+
+SVM linear 1%
+training time: 0.118 s
+prediction time: 1.252 s
+0.884527872582
+
+SVM rbf 1%
+training time: 0.134 s
+prediction time: 1.415 s
+0.616040955631
+
+SVM rbf,C=10 1%
+training time: 0.132 s
+prediction time: 1.422 s
+0.616040955631
+
+SVM rbf,C=100 1%
+training time: 0.137 s
+prediction time: 1.421 s
+0.616040955631
+
+SVM rbf,C=1000 1%
+training time: 0.13 s
+prediction time: 1.367 s
+0.821387940842
+
+SVM rbf,C=10000 1%
+training time: 0.128 s
+prediction time: 1.143 s
+0.892491467577
+
+SVM rbf,C=10000
+training time: 132.694 s
+prediction time: 13.501 s
+0.990898748578
